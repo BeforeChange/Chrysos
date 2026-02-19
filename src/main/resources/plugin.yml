@@ -1,0 +1,5 @@
+name: Elegance
+version: 1.0
+main: ch.afterchange.elegance.Elegance
+api-version: 1.21
+author: AfterChange
